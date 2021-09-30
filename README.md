@@ -7,4 +7,4 @@ A Simple Django Project to find out GitHub users into GitHub.
 ![Screenshot (59)](https://user-images.githubusercontent.com/69615463/135403111-0401a43b-7f15-4724-9a71-8e714155ec98.png)
 
 ### Link ###
-+ <a href='rahatkhantusar.pythonanywhere.com'>rahatkhantusar.pythonanywhere.com</a>
++ rahatkhantusar.pythonanywhere.com
